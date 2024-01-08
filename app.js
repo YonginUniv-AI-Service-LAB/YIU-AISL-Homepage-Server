@@ -393,7 +393,7 @@ app.post("/api/refresh-token", async (req, res) => {
 });
 
 app.listen(3002, async () => {
-  console.log(`Listening on 3000`);
+  console.log(`Listening on 3002`);
 });
 
 module.exports = app;
